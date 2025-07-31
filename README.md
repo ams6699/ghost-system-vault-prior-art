@@ -1,6 +1,6 @@
 # Ghost System Vault — Prior Art Proof
 
-**Author:** Pedro Miguel Alves Neves  
+**Author:** P.MAN  
 **Born:** 27-12-1984  
 **Email:** peteramster007@gmail.com  
 **Date of Declaration:** 30-07-2025  
