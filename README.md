@@ -38,10 +38,12 @@ This publication serves as prior art and cryptographic proof of authorship by P.
 # 📁 Decentralized Proof (IPFS):
 https://ipfs.io/ipfs/bafybeihf6vdxxwc62xask7omjkkbdcoz7x2hauyqsdqaod4rwtlvzpizni/
 https://ipfs.io/ipfs/bafybeichore337efx3fc254e77tx26ppg6alq75qc2gskzrgfdhzpawiii/
-https://ipfs.io/ipfs/bafybeic5p5phkqxkzqlogitdxl4orquwlhn6d55w2c7y6xdot3ahczv2tq
+https://ipfs.io/ipfs/bafybeic5p5phkqxkzqlogitdxl4orquwlhn6d55w2c7y6xdot3ahczv2tq/
+https://ipfs.io/ipfs/bafybeiewm66jjmbywx6i445mssm4pfha6z4zizjneamvd53meixqygar6y/
 https://bafybeihf6vdxxwc62xask7omjkkbdcoz7x2hauyqsdqaod4rwtlvzpizni.ipfs.w3s.link
 https://bafybeichore337efx3fc254e77tx26ppg6alq75qc2gskzrgfdhzpawiii.ipfs.w3s.link
 https://bafybeic5p5phkqxkzqlogitdxl4orquwlhn6d55w2c7y6xdot3ahczv2tq.ipfs.w3s.link
+https://bafybeiewm66jjmbywx6i445mssm4pfha6z4zizjneamvd53meixqygar6y.ipfs.w3s.link
 
 # The original invention content and trade secrets are not disclosed in this repository.
 
