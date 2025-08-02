@@ -1,7 +1,7 @@
 # Ghost System Vault — Prior Art Proof
-Author: P. MAN
-Date of Declaration: August 02, 2025
-Email (optional): peteramster007@gmail.com
+# Author: P. MAN
+# Date of Declaration: August 02, 2025
+# Email (optional): peteramster007@gmail.com
 
 # 🧭 Purpose
 This repository establishes cryptographic, timestamped proof of authorship and existence of an original invention titled:
