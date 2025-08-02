@@ -17,6 +17,7 @@ SHA-256 Hash of Original Declaration PDF:
 
 da45aee3550d4fb8495eb7148ecb27c09da45564ba2638f481db98176d7ea8d3
 362d5b49371637297d7029f6add7ac1751b44d07659a86dde59dda3034a6de13
+bfd1928293b534b74d084457a0bd462de2bdb210b73f68b17f7c2ad2ac5d4961
 
 # ✅ Verification Instructions
 To independently verify authorship and timestamp:
