@@ -26,6 +26,7 @@ To independently verify authorship and timestamp:
 
 # sha256sum 
 # Ghost_System_Vault_Declaration_With_Annex_Updated.pdf
+# Ghost System Vault – Growth Locking System.pdf
 # Ghost System Vault - Growth Locking Logic (1).pdf
 Confirm that the output matches the hash above.
 
