@@ -24,7 +24,9 @@ To independently verify authorship and timestamp:
 
 # Compute the SHA-256 hash of your local declaration PDF:
 
-sha256sum Ghost_System_Vault_Declaration_With_Annex_Updated.pdf
+# sha256sum 
+# Ghost_System_Vault_Declaration_With_Annex_Updated.pdf
+# Ghost System Vault - Growth Locking Logic (1).pdf
 Confirm that the output matches the hash above.
 
 You may optionally verify the timestamp using OpenTimestamps (if you hold the corresponding .ots file privately).
