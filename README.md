@@ -10,7 +10,7 @@ This repository establishes cryptographic, timestamped proof of authorship and e
 # Ghost System Vault
 Codename: STAB — Strategic Token Against Breakdown
 
-This serves as public prior art to protect against unauthorized novelty or patent claims by third parties, and to assert prior ownership of trade secrets related to the invention.
+# This serves as public prior art to protect against unauthorized novelty or patent claims by third parties, and to assert prior ownership of trade secrets related to the invention.
 
 # 🔐 Cryptographic Proof of Authorship
 SHA-256 Hash of Original Declaration PDF:
