@@ -19,7 +19,7 @@ da45aee3550d4fb8495eb7148ecb27c09da45564ba2638f481db98176d7ea8d3
 # ✅ Verification Instructions
 To verify authorship and timestamp independently:
 
-Compute the SHA-256 hash of your local declaration PDF:
+# Compute the SHA-256 hash of your local declaration PDF:
 
 sha256sum Ghost_System_Vault_Declaration_With_Annex_Updated.pdf
 Confirm that the output matches the hash above.
