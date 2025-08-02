@@ -29,6 +29,9 @@ You may optionally verify the timestamp using OpenTimestamps (if you hold the co
 # ⚖️ Legal Note
 This publication serves as prior art and cryptographic proof of authorship by P. MAN, establishing a verifiable record of the invention's existence and associated trade secrets as of the declared date.
 
+# 📁 Decentralized Proof (IPFS):
+https://ipfs.io/ipfs/bafybeihf6vdxxwc62xask7omjkkbdcoz7x2hauyqsdqaod4rwtlvzpizni/
+
 # The original invention content and trade secrets are not disclosed in this repository.
 
 © 2025 P. MAN. All rights reserved. This repository contains cryptographic authorship proof only. Redistribution, replication, reverse engineering, or unauthorized use is prohibited. No patent or commercial rights are waived.
