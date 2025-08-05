@@ -42,6 +42,8 @@ You may optionally verify the timestamp using OpenTimestamps (if you hold the co
 # ⚖️ Legal Note
 This publication serves as prior art and cryptographic proof of authorship by P. MAN, establishing a verifiable record of the invention's existence and associated trade secrets as of the declared date.
 
+# Confidentiality Notice: This repository contains proprietary trade secrets protected by law. Unauthorized use, reproduction, or distribution is prohibited.
+
 # The original invention content and trade secrets are not disclosed in this repository.
 
 © 2025 P. MAN. All rights reserved. This repository contains cryptographic authorship proof only. Redistribution, replication, reverse engineering, or unauthorized use is prohibited. No patent or commercial rights are waived.
