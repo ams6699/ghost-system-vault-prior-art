@@ -3,6 +3,7 @@
 # Alias: P.MAN
 # Date of Declaration: August 05, 2025
 # Email (optional): peteramster007@gmail.com
+# **Verification**: [opentimestamps.org](https://opentimestamps.org)
 
 # 🧭 Purpose
 This repository establishes cryptographic, timestamped proof of authorship and existence of an original invention titled:
