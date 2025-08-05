@@ -46,6 +46,9 @@ This publication serves as prior art and cryptographic proof of authorship by P.
 
 # The original invention content and trade secrets are not disclosed in this repository.
 
+# For full confidentiality terms, see TRADE SECRET NOTICE:
+https://github.com/ams6699/ghost-system-vault-prior-art/blob/main/TRADE%20SECRET%20NOTICE.txt
+
 © 2025 P. MAN. All rights reserved. This repository contains cryptographic authorship proof only. Redistribution, replication, reverse engineering, or unauthorized use is prohibited. No patent or commercial rights are waived.
 
 
