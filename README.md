@@ -13,6 +13,8 @@ Codename: STAB — Strategic Token Against Breakdown
 
 # This serves as public prior art to protect against unauthorized novelty or patent claims by third parties, and to assert prior ownership of trade secrets related to the invention.
 
+# Note: The .ots file is held privately and is not publicly shared, ensuring the confidentiality and security of the proof of authorship.
+
 # 🔐 Cryptographic Proof of Authorship
 SHA-256 Hash of Original Declaration PDF:
 
