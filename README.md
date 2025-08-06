@@ -23,6 +23,7 @@ da45aee3550d4fb8495eb7148ecb27c09da45564ba2638f481db98176d7ea8d3
 bfd1928293b534b74d084457a0bd462de2bdb210b73f68b17f7c2ad2ac5d4961
 3d6aa607afa9b7f828b97dc1cd24a864cc09b3419d00271174c4ff428c237b39
 4276d51fffb80e6aa50908f1b0fe1d0ceeaf7efa10ec9353f03d40ee9a21e6e5
+37690bfe7e5982260e27889cdf6f06524b1669bab87638e35cdde2d3209a8878
 
 # ✅ Verification Instructions
 To independently verify authorship and timestamp:
@@ -35,6 +36,7 @@ To independently verify authorship and timestamp:
 # Ghost System Vault - Growth Locking Logic (1).pdf
 # Updated_Profit_Locking_IP_Declaration.pdf
 # Vault_Based_Profit_Locking_BTC_ETH_XRP.pdf
+# Vault-Backed STAB Token Whitepaper (1).pdf
 Confirm that the output matches the hash above.
 
 You may optionally verify the timestamp using OpenTimestamps (if you hold the corresponding .ots file privately).
